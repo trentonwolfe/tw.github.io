@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Trenton Wolfe"
+title: "👋🏻 Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-👋🏻 Welcome!
+
 ======
 Hello! My name is Trenton Wolfe. I'm a third-year Ph.D. candidate at Montana State University in beautiful Bozeman, Montana. I'm in the Department of Microbiology & Cell Biology and work in Dr. Seth Walk's lab. My research focuses on understanding how the bacteria in our gut (i.e., our gut microbiome) can protect us from environmental toxins like arsenic. I also have some side projects focusing on *Clostridioides difficile*, gut microbiome differences in IBD patients, and I often collaborate with ZBiotics on some of their projects. 
 
