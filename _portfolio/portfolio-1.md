@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "16S Analysis in R"
+excerpt: "This is a guide to help process the output files from the mothur pipeline in R to make nice figures.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ℹ️ This guide uses the output files from [mothur](mothur.org) in [R Studio}(https://posit.co/download/rstudio-desktop/) to analyze 16S v4 amplicon sequences and make some nice figures for presentations and/or manuscripts. 
